@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "saikou9901.evilinspector",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    "firsttris.vscode-jest-runner",
+    "samuelcolvin.jinjahtml",
+    "ms-python.black-formatter"
+  ]
+}
